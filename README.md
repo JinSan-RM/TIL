@@ -13,3 +13,8 @@ git
 
 ## :rainbow: **HTML CSS JAVASCRIPT** :rainbow:
 [ - **HTML** :stars::stars: *기초*](https://github.com/JinSan-RM/HTML_CSS_JAVASCRIPT.git)
+[ - **CSS** :eyes::eyes: *기초*](https://github.com/JinSan-RM/HTML_CSS_JAVASCRIPT/tree/master/css)
+[ - **Javascript** :ocean::ocean: *기초*]{https://github.com/JinSan-RM/HTML_CSS_JAVASCRIPT/tree/master/js
+}
+## :hibiscus: **Django** :hibiscus:
+[ - **Django** :cherry_blossom::cherry_blossom: *기초* ](https://github.com/JinSan-RM/DjangoTraining)
